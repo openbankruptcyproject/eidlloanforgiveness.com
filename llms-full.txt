@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## EIDL Appeal Process -- Eidlloanforgiveness
+## EIDL Appeal Process - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/appeal-process.html
 
 EIDL Appeal Process
@@ -14,6 +14,8 @@ EIDL Appeal Process
 How to Challenge SBA Decisions
 
 ← Back to eidlloanforgiveness.com
+
+Home›EIDL Appeal Process | eidlloanforgiveness.com›EIDL Appeal Process
 
 Types of Appealable Decisions
 
@@ -43,7 +45,7 @@ Yes. An attorney experienced with SBA matters can significantly improve your cha
 
 What if my appeal is denied?
 
-You may have additional options: federal court review (for legal errors), congressional intervention, or pursuing alternative relief like bankruptcy. Do not give up after one denial -- persistence often pays off with the SBA.
+You may have additional options: federal court review (for legal errors), congressional intervention, or pursuing alternative relief like bankruptcy. Do not give up after one denial - persistence often pays off with the SBA.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -73,10 +75,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -150,7 +152,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Bankruptcy and EIDL Loans -- Eidlloanforgiveness
+## Bankruptcy and EIDL Loans - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/bankruptcy-and-eidl.html
 
 Bankruptcy and EIDL Loans
@@ -158,6 +160,8 @@ Bankruptcy and EIDL Loans
 Can You Discharge an SBA Disaster Loan?
 
 ← Back to eidlloanforgiveness.com
+
+Home›Bankruptcy and EIDL Loans | eidlloanforgiveness.com›Bankruptcy and EIDL Loans
 
 EIDL Loans Are Generally Dischargeable
 
@@ -185,7 +189,7 @@ Can I keep my business and discharge the EIDL?
 
 In Chapter 7, the business may be liquidated. In Chapter 13, you can keep the business and repay a portion of the EIDL over 3-5 years. In Chapter 11 Subchapter V, you can reorganize the business and restructure the EIDL.
 
-What about the EIDL advance -- do I owe that back if I file bankruptcy?
+What about the EIDL advance - do I owe that back if I file bankruptcy?
 
 No. The EIDL advance was a grant and does not need to be repaid regardless of bankruptcy. Only the loan portion is a debt.
 
@@ -217,10 +221,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -294,7 +298,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## EIDL Default Consequences -- Eidlloanforgiveness
+## EIDL Default Consequences - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/default-consequences.html
 
 EIDL Default Consequences
@@ -302,6 +306,8 @@ EIDL Default Consequences
 What Happens If You Stop Paying Your EIDL Loan
 
 ← Back to eidlloanforgiveness.com
+
+Home›EIDL Default Consequences | eidlloanforgiveness.com›EIDL Default Consequences
 
 The Default Timeline
 
@@ -323,7 +329,7 @@ Frequently Asked Questions
 
 Can the SBA garnish my wages?
 
-Through administrative wage garnishment (AWG) via the Treasury, yes -- up to 15% of disposable pay without a court order. This is separate from Treasury offset. You have the right to a hearing before AWG begins.
+Through administrative wage garnishment (AWG) via the Treasury, yes - up to 15% of disposable pay without a court order. This is separate from Treasury offset. You have the right to a hearing before AWG begins.
 
 Will I go to jail for not paying my EIDL?
 
@@ -352,6 +358,10 @@ Student Loans in Bankruptcy
 
 Taxes in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -361,10 +371,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -438,18 +448,20 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## EIDL Advance vs. EIDL Loan -- Know the Difference -- Eidlloanforgiveness
+## EIDL Advance vs. EIDL Loan - Know the Difference - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/eidl-advance-vs-loan.html
 
-EIDL Advance vs. EIDL Loan -- Know the Difference
+EIDL Advance vs. EIDL Loan - Know the Difference
 
 Grants You Keep vs. Loans You Owe
 
 ← Back to eidlloanforgiveness.com
 
+Home›EIDL Advance vs. EIDL Loan - Know the Difference | eidlloanforgiveness.com›EIDL Advance vs. EIDL Loan - Know the Difference
+
 The Three EIDL Products
 
-The SBA offered three separate products under the EIDL umbrella: (1) EIDL Loan -- up to $2 million, must be repaid with 3.75% interest over 30 years. (2) EIDL Advance -- $1,000 per employee up to $10,000, this is a GRANT and does not need to be repaid. (3) Targeted EIDL Advance -- additional $5,000 for businesses in low-income areas, also a GRANT.
+The SBA offered three separate products under the EIDL umbrella: (1) EIDL Loan - up to $2 million, must be repaid with 3.75% interest over 30 years. (2) EIDL Advance - $1,000 per employee up to $10,000, this is a GRANT and does not need to be repaid. (3) Targeted EIDL Advance - additional $5,000 for businesses in low-income areas, also a GRANT.
 
 How to Verify What You Received
 
@@ -461,7 +473,7 @@ Many borrowers received the advance first (sometimes weeks before the loan) and 
 
 Tax Treatment
 
-EIDL advances are not taxable income -- they are excluded by statute (Economic Aid Act). The EIDL loan proceeds are not taxable income because loans are not income. Interest paid on the EIDL loan is a deductible business expense. If you settle the loan for less through OIC, the forgiven amount may be taxable as cancellation of debt income (similar to a 1099-C).
+EIDL advances are not taxable income - they are excluded by statute (Economic Aid Act). The EIDL loan proceeds are not taxable income because loans are not income. Interest paid on the EIDL loan is a deductible business expense. If you settle the loan for less through OIC, the forgiven amount may be taxable as cancellation of debt income (similar to a 1099-C).
 
 Frequently Asked Questions
 
@@ -473,7 +485,7 @@ Was my advance deducted from my loan?
 
 Possibly. Early in the program, the SBA deducted the advance from the loan disbursement. Later, this practice was reversed for many borrowers. Check your SBA portal for exact amounts.
 
-I only got $1,000 -- was that the advance or the loan?
+I only got $1,000 - was that the advance or the loan?
 
 If you received exactly $1,000 early in the pandemic (April-June 2020), it was likely the EIDL advance (calculated at $1,000 per employee for businesses with 1 employee). If it came later with loan documents, it may have been a small loan.
 
@@ -505,10 +517,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -582,7 +594,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## EIDL Loan Structure -- Eidlloanforgiveness
+## EIDL Loan Structure - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/eidl-loan-structure.html
 
 EIDL Loan Structure Explained
@@ -590,6 +602,8 @@ EIDL Loan Structure Explained
 Understanding Your SBA Economic Injury Disaster Loan
 
 ← Back to eidlloanforgiveness.com
+
+Home›EIDL Loan Structure Explained | eidlloanforgiveness.com›EIDL Loan Structure Explained
 
 Basic EIDL Terms
 
@@ -601,7 +615,7 @@ EIDL loans over $25,000 are secured by a general security interest (UCC lien) on
 
 Personal Guarantee Implications
 
-If you signed a personal guarantee (required for loans over $200,000), the SBA can pursue your personal assets if the business cannot pay. This includes personal bank accounts, real property, and other assets. Bankruptcy may discharge the personal guarantee -- consult a bankruptcy attorney if you are facing personal liability on an EIDL.
+If you signed a personal guarantee (required for loans over $200,000), the SBA can pursue your personal assets if the business cannot pay. This includes personal bank accounts, real property, and other assets. Bankruptcy may discharge the personal guarantee - consult a bankruptcy attorney if you are facing personal liability on an EIDL.
 
 Subordination and Refinancing
 
@@ -611,7 +625,7 @@ Frequently Asked Questions
 
 Can I refinance my EIDL loan?
 
-The SBA does not allow refinancing an EIDL with another SBA loan. However, you can use a conventional loan to pay off the EIDL. Whether this makes financial sense depends on the interest rate -- 3.75% is quite low.
+The SBA does not allow refinancing an EIDL with another SBA loan. However, you can use a conventional loan to pay off the EIDL. Whether this makes financial sense depends on the interest rate - 3.75% is quite low.
 
 What happens if my business closes?
 
@@ -649,10 +663,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -726,7 +740,126 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## EIDL Forgiveness and Relief Options -- Eidlloanforgiveness
+## EIDL Payment Plan - Negotiating With the SBA (2026)
+Source: https://eidlloanforgiveness.com/eidl-payment-plan.html
+
+EIDL Payment Plan
+
+Options for Negotiating With the SBA When You Cannot Afford Your Payment
+
+← Back to eidlloanforgiveness.com
+
+Home›EIDL Loan Forgiveness›EIDL Payment Plan
+
+Your EIDL Payment Options
+
+EIDL loans are 30-year obligations at 3.75% interest (2.75% for nonprofits). Monthly payments are fixed and can be substantial - a $150,000 loan requires approximately $695/month. If your business cannot sustain these payments, you have several options before defaulting:
+
+Hardship accommodation - temporary reduced payments or deferment (see hardship options)
+
+Extended deferment - pause payments for 6-12 months (interest continues accruing)
+
+Offer in compromise - settle the full balance for less than owed (see OIC guide)
+
+Bankruptcy discharge - eliminate the debt through Chapter 7, 13, or 11
+
+How to Request a Payment Modification
+
+The SBA does not advertise payment modification options prominently. You must be proactive. Here is the process:
+
+Step 1: Call the SBA. The dedicated EIDL line is 1-800-659-2955. Ask specifically for the "hardship accommodation" or "payment modification" team. The first representative you speak with may not know about these options - ask for a supervisor if needed.
+
+Step 2: Document your hardship. Prepare: recent business tax returns, a current profit and loss statement, documentation of the hardship (lost contracts, increased costs, health issues), and a realistic budget showing what you can afford to pay.
+
+Step 3: Propose a number. Do not wait for the SBA to offer an amount. Come with a specific monthly payment you can sustain. Be honest - an agreement you cannot keep leads to default, which is worse than negotiating a realistic amount upfront.
+
+Step 4: Get it in writing. Any modification agreement should be documented in a letter from the SBA. Do not rely on verbal promises. Note the date, time, representative name, and reference number of every call.
+
+What the SBA Will and Will Not Do
+
+The SBA has some flexibility but significant limitations:
+
+Will do: Temporary payment reduction, deferment (6-12 months), interest-only payments during hardship
+
+Will sometimes do: Extended deferment periods, reduced payment amounts for longer periods
+
+Will not do: Reduce the principal balance (that requires an Offer in Compromise), reduce the interest rate, extend the 30-year term, or forgive the loan
+
+The SBA's customer service is notoriously inconsistent. Different representatives may give different answers. If one says no, call back and try again. Document everything.
+
+When a Payment Plan Is Not Enough
+
+If even a reduced payment is unaffordable, your remaining options are:
+
+Offer in Compromise: The SBA may accept a lump-sum settlement for less than the full balance. You need to demonstrate that you cannot pay the full amount and that the SBA would recover less through collections than through your offer. See the complete OIC guide.
+
+Bankruptcy: EIDL loans are fully dischargeable. Chapter 7 eliminates the debt in 3-4 months. Chapter 13 allows partial repayment over 3-5 years. Chapter 11/Subchapter V lets you restructure while continuing operations.
+
+Strategic default: If you have no assets to protect and the SBA has no personal guarantee, default may result in the debt being written off after collection attempts. However, the Treasury Offset Program can intercept tax refunds indefinitely. Consult an attorney before choosing this path.
+
+Frequently Asked Questions
+
+Can I negotiate a lower EIDL payment with the SBA?
+
+Yes. The SBA offers hardship accommodations including temporary payment reductions, deferment, and extended terms. Call 1-800-659-2955 and ask for the hardship accommodation team.
+
+What happens if I stop paying my EIDL loan?
+
+The SBA sends demand letters, then refers to Treasury Offset Program (tax refund intercept), then private collections, and potentially DOJ litigation. Timeline: 12-24 months from first missed payment to active collections.
+
+Can I pay off my EIDL loan early?
+
+Yes. No prepayment penalty. Extra payments or full payoff reduce the total interest paid over the 30-year term.
+
+What is the monthly payment on a typical EIDL loan?
+
+At 3.75% over 30 years: $50K loan is ~$232/month, $150K is ~$695/month, $500K is ~$2,316/month. Check your exact amount on the SBA online portal.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on SBA EIDL program guidelines, federal bankruptcy law (Title 11, U.S. Code), and the Debt Collection Improvement Act. Payment calculations use standard amortization at 3.75% APR. This is educational content, not legal advice.
+
+Related Guides
+
+EIDL Loans in Bankruptcy
+
+SBA Offer in Compromise
+
+EIDL Hardship Options
+
+Chapter 7 vs Chapter 13
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+Means Test
+EIDL Bankruptcy
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## EIDL Forgiveness and Relief Options - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/forgiveness-options.html
 
 EIDL Forgiveness and Relief Options
@@ -735,13 +868,15 @@ What Options Exist for EIDL Borrowers
 
 ← Back to eidlloanforgiveness.com
 
+Home›EIDL Forgiveness and Relief Options | eidlloanforgiveness.com›EIDL Forgiveness and Relief Options
+
 There Is No Blanket EIDL Forgiveness
 
 Unlike PPP loans, EIDL loans were never designed for forgiveness. There is no forgiveness program for EIDL loans. Any website or company claiming to get your EIDL forgiven is likely a scam. However, several relief options exist that can significantly reduce your burden.
 
 EIDL Advance Forgiveness
 
-The EIDL Advance ($1,000-$10,000) and Targeted EIDL Advance ($5,000) were grants -- they do not need to be repaid. If you received an advance, that money is yours. The SBA may have reduced your loan amount by the advance amount. Confirm whether your advance was properly credited to your account.
+The EIDL Advance ($1,000-$10,000) and Targeted EIDL Advance ($5,000) were grants - they do not need to be repaid. If you received an advance, that money is yours. The SBA may have reduced your loan amount by the advance amount. Confirm whether your advance was properly credited to your account.
 
 Hardship Accommodations
 
@@ -793,10 +928,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -870,7 +1005,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## EIDL Hardship Options -- Eidlloanforgiveness
+## EIDL Hardship Options - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/hardship-options.html
 
 EIDL Hardship Options
@@ -879,9 +1014,11 @@ Relief Programs for Struggling Borrowers
 
 ← Back to eidlloanforgiveness.com
 
+Home›EIDL Hardship Options | eidlloanforgiveness.com›EIDL Hardship Options
+
 Current Hardship Programs
 
-The SBA offers several hardship accommodations for EIDL borrowers: temporary payment reduction (paying less than the full monthly amount), temporary deferment (pausing payments, though interest continues accruing), extended repayment terms, and interest-only payments. These programs are not widely advertised -- you must contact the SBA to request them.
+The SBA offers several hardship accommodations for EIDL borrowers: temporary payment reduction (paying less than the full monthly amount), temporary deferment (pausing payments, though interest continues accruing), extended repayment terms, and interest-only payments. These programs are not widely advertised - you must contact the SBA to request them.
 
 How to Apply
 
@@ -889,11 +1026,11 @@ Call the SBA's dedicated EIDL line at 1-800-659-2955 or contact your loan servic
 
 What to Expect
 
-The SBA's customer service can be slow and inconsistent. Be persistent -- call multiple times if needed. Get any agreement in writing. Keep records of all calls (date, time, representative name, reference number). If the initial representative cannot help, ask for a supervisor or the hardship accommodation team. Some borrowers report better results through their local SBA district office.
+The SBA's customer service can be slow and inconsistent. Be persistent - call multiple times if needed. Get any agreement in writing. Keep records of all calls (date, time, representative name, reference number). If the initial representative cannot help, ask for a supervisor or the hardship accommodation team. Some borrowers report better results through their local SBA district office.
 
 When Hardship Is Not Enough
 
-If even reduced payments are unaffordable, consider: SBA Offer in Compromise (settle for less than full balance), bankruptcy (EIDL loans are generally dischargeable), or strategic default with a plan for managing the consequences. Consult with both a bankruptcy attorney and a CPA before making decisions -- the tax implications of settlement vs. bankruptcy vs. default can vary significantly.
+If even reduced payments are unaffordable, consider: SBA Offer in Compromise (settle for less than full balance), bankruptcy (EIDL loans are generally dischargeable), or strategic default with a plan for managing the consequences. Consult with both a bankruptcy attorney and a CPA before making decisions - the tax implications of settlement vs. bankruptcy vs. default can vary significantly.
 
 Frequently Asked Questions
 
@@ -937,10 +1074,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1014,8 +1151,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## EIDL Loan Forgiveness -- SBA Relief Options & Hardship Programs [2026] -- Eidlloanforgiveness
+## EIDL Loan Forgiveness - SBA Relief Options & Hardship Programs [2026] - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -1025,27 +1164,27 @@ Options for SBA Economic Injury Disaster Loans
 
 Explore EIDL Relief Topics
 
-EIDL Loan Structure -- Terms, interest rates, and collateral requirements
+EIDL Loan Structure - Terms, interest rates, and collateral requirements
 
-Forgiveness Options -- Every path to EIDL relief
+Forgiveness Options - Every path to EIDL relief
 
-SBA Offer in Compromise -- Settle your loan for less
+SBA Offer in Compromise - Settle your loan for less
 
-Treasury Offset Program -- Tax refund seizure and how to stop it
+Treasury Offset Program - Tax refund seizure and how to stop it
 
-Bankruptcy and EIDL -- Discharging SBA debt in bankruptcy
+Bankruptcy and EIDL - Discharging SBA debt in bankruptcy
 
-EIDL Advance vs Loan -- Which did you get?
+EIDL Advance vs Loan - Which did you get?
 
-Default Consequences -- What happens if you stop paying
+Default Consequences - What happens if you stop paying
 
-Hardship Options -- Reduced payments and deferrals
+Hardship Options - Reduced payments and deferrals
 
-Appeal Process -- Challenging SBA decisions and denials
+Appeal Process - Challenging SBA decisions and denials
 
 Can EIDL Loans Be Forgiven?
 
-Unlike PPP loans, EIDL loans (Economic Injury Disaster Loans) are not forgivable. They are real loans that must be repaid. However, if you cannot repay, multiple relief options exist. The SBA does not want to push struggling businesses into failure -- they have administrative tools to reduce, restructure, or settle EIDL debt.
+Unlike PPP loans, EIDL loans (Economic Injury Disaster Loans) are not forgivable. They are real loans that must be repaid. However, if you cannot repay, multiple relief options exist. The SBA does not want to push struggling businesses into failure - they have administrative tools to reduce, restructure, or settle EIDL debt.
 
 EIDL loans were issued with 30-year terms at 3.75% interest (2.75% for nonprofits). Initial payments were deferred for 30 months from the loan date. Many borrowers are now entering repayment and discovering they cannot afford it.
 
@@ -1057,13 +1196,13 @@ This is typically the first option to explore. The SBA will review your financia
 
 SBA Offer in Compromise (OIC)
 
-An Offer in Compromise allows you to settle your EIDL for less than the full balance. The SBA evaluates: your income, expenses, asset equity, and future earning capacity. Settlement amounts vary widely -- some borrowers have settled for 10-20% of the outstanding balance, while others are offered higher amounts.
+An Offer in Compromise allows you to settle your EIDL for less than the full balance. The SBA evaluates: your income, expenses, asset equity, and future earning capacity. Settlement amounts vary widely - some borrowers have settled for 10-20% of the outstanding balance, while others are offered higher amounts.
 
 The process: submit a formal OIC application with complete financial disclosures, the SBA reviews and may counter-offer, if accepted you pay the agreed amount (lump sum or short-term payments), and the remaining balance is cancelled. Note: cancelled debt may result in a 1099-C tax form.
 
 EIDL Advance Grants
 
-The EIDL Advance ($1,000 per employee up to $10,000) and Targeted EIDL Advance ($5,000-$10,000 for low-income areas) are actual grants that do not need to be repaid. If you received these, they are yours to keep. Some borrowers confuse the advance with the loan -- they are separate. If you only received the advance and no loan, you have no repayment obligation.
+The EIDL Advance ($1,000 per employee up to $10,000) and Targeted EIDL Advance ($5,000-$10,000 for low-income areas) are actual grants that do not need to be repaid. If you received these, they are yours to keep. Some borrowers confuse the advance with the loan - they are separate. If you only received the advance and no loan, you have no repayment obligation.
 
 What Happens If You Default on EIDL
 
@@ -1085,25 +1224,25 @@ If you received an EIDL legitimately but used some funds for non-eligible purpos
 
 Action Steps for Struggling EIDL Borrowers
 
-1. Don't ignore correspondence from the SBA. 2. Call the SBA disaster loan servicing center (800-659-2955) to discuss hardship options. 3. Gather financial documents -- tax returns, bank statements, profit/loss. 4. Apply for hardship accommodation first. 5. If that is insufficient, explore Offer in Compromise. 6. Consult a bankruptcy attorney if the debt is unmanageable. 7. If you have multiple SBA loans, address them together.
+1. Don't ignore correspondence from the SBA. 2. Call the SBA disaster loan servicing center (800-659-2955) to discuss hardship options. 3. Gather financial documents - tax returns, bank statements, profit/loss. 4. Apply for hardship accommodation first. 5. If that is insufficient, explore Offer in Compromise. 6. Consult a bankruptcy attorney if the debt is unmanageable. 7. If you have multiple SBA loans, address them together.
 
 Explore More Topics
 
-EIDL Loan Structure Explained\n EIDL Forgiveness and Relief Options\n SBA Offer in Compromise for EIDL Loans\n Treasury Offset Program and EIDL Loans\n Bankruptcy and EIDL Loans\n EIDL Advance vs. EIDL Loan -- Know the Difference\n EIDL Default Consequences\n EIDL Hardship Options\n EIDL Appeal Process
+EIDL Loan Structure Explained\n EIDL Forgiveness and Relief Options\n SBA Offer in Compromise for EIDL Loans\n Treasury Offset Program and EIDL Loans\n Bankruptcy and EIDL Loans\n EIDL Advance vs. EIDL Loan - Know the Difference\n EIDL Default Consequences\n EIDL Hardship Options\n EIDL Appeal Process
 
 Frequently Asked Questions
 
 Is EIDL the same as PPP?
 
-No. PPP loans were forgivable if used for payroll and other eligible expenses. EIDL loans are not forgivable -- they must be repaid (with some relief options for hardship). These are separate programs with different rules.
+No. PPP loans were forgivable if used for payroll and other eligible expenses. EIDL loans are not forgivable - they must be repaid (with some relief options for hardship). These are separate programs with different rules.
 
 Can the SBA take my house for EIDL default?
 
-EIDL loans under $25,000 are unsecured -- no collateral. Loans between $25,000 and $200,000 have a UCC lien on business assets only (not personal assets). Loans over $200,000 may require real estate as collateral. Check your loan documents for the specific security agreement.
+EIDL loans under $25,000 are unsecured - no collateral. Loans between $25,000 and $200,000 have a UCC lien on business assets only (not personal assets). Loans over $200,000 may require real estate as collateral. Check your loan documents for the specific security agreement.
 
 Will EIDL forgiveness be passed by Congress?
 
-As of 2026, no EIDL forgiveness legislation has been enacted. While various proposals have been introduced, none have passed. Do not count on future forgiveness -- explore current relief options and plan accordingly.
+As of 2026, no EIDL forgiveness legislation has been enacted. While various proposals have been introduced, none have passed. Do not count on future forgiveness - explore current relief options and plan accordingly.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -1139,10 +1278,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1190,7 +1329,7 @@ sbaborrowersbankruptcy.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1325,6 +1464,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 eidlloanforgiveness.com
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -1338,9 +1478,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## SBA Offer in Compromise for EIDL Loans -- Eidlloanforgiveness
+## SBA Offer in Compromise for EIDL Loans - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/sba-offer-in-compromise.html
 
 SBA Offer in Compromise for EIDL Loans
@@ -1349,9 +1491,11 @@ How to Settle Your EIDL for Less Than You Owe
 
 ← Back to eidlloanforgiveness.com
 
+Home›SBA Offer in Compromise for EIDL Loans | eidlloanforgiveness.com›SBA Offer in Compromise for EIDL Loans
+
 What Is an SBA OIC
 
-An SBA Offer in Compromise allows you to settle your EIDL loan for less than the full balance. The SBA will consider an OIC when it determines that the full amount is not collectible and the offer represents the maximum the borrower can reasonably pay. This is a legitimate federal program -- not a scam or a loophole.
+An SBA Offer in Compromise allows you to settle your EIDL loan for less than the full balance. The SBA will consider an OIC when it determines that the full amount is not collectible and the offer represents the maximum the borrower can reasonably pay. This is a legitimate federal program - not a scam or a loophole.
 
 Eligibility Requirements
 
@@ -1363,7 +1507,7 @@ Contact the SBA's Office of Capital Access or your loan servicer to request an O
 
 Tips for a Successful OIC
 
-Be thorough and honest in your financial disclosure -- the SBA will verify. Propose a realistic amount based on your actual ability to pay. Include a lump sum if possible (the SBA prefers immediate payment). Explain the hardship clearly and document it. If your first offer is rejected, you can negotiate or resubmit with additional documentation.
+Be thorough and honest in your financial disclosure - the SBA will verify. Propose a realistic amount based on your actual ability to pay. Include a lump sum if possible (the SBA prefers immediate payment). Explain the hardship clearly and document it. If your first offer is rejected, you can negotiate or resubmit with additional documentation.
 
 Frequently Asked Questions
 
@@ -1407,10 +1551,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1484,7 +1628,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Treasury Offset Program and EIDL -- Tax Refund Seizure for SBA Loans -- Eidlloanforgiveness
+## Treasury Offset Program and EIDL - Tax Refund Seizure for SBA Loans - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/treasury-offset-program.html
 
 Treasury Offset Program
@@ -1497,25 +1641,25 @@ What Is the Treasury Offset Program?
 
 The Treasury Offset Program (TOP) is a federal debt collection tool that intercepts federal payments owed to you and redirects them to satisfy delinquent federal debts. For EIDL borrowers, this means your federal tax refunds, certain Social Security payments, and other federal payments can be seized to repay your defaulted EIDL loan.
 
-TOP is administered by the Bureau of the Fiscal Service within the U.S. Department of the Treasury. It is one of the most powerful collection tools the federal government has -- no court order is needed, and the offset happens automatically once the debt is referred.
+TOP is administered by the Bureau of the Fiscal Service within the U.S. Department of the Treasury. It is one of the most powerful collection tools the federal government has - no court order is needed, and the offset happens automatically once the debt is referred.
 
 What Triggers a Treasury Offset
 
 The process works as follows: 1. You default on your EIDL (typically 150+ days of non-payment). 2. The SBA sends demand letters and attempts to collect. 3. If unsuccessful, the SBA refers the debt to Treasury's cross-servicing program. 4. Treasury enters the debt into the TOP database. 5. Any federal payment owed to you is automatically checked against TOP. 6. If a match is found, the payment is partially or fully redirected to your EIDL balance.
 
-You will receive notice before the debt is referred to Treasury and before the first offset occurs. These notices are critical -- they contain information about your right to dispute the debt and request a review.
+You will receive notice before the debt is referred to Treasury and before the first offset occurs. These notices are critical - they contain information about your right to dispute the debt and request a review.
 
 What Payments Can Be Offset
 
-Federal tax refunds -- the most common offset for EIDL borrowers
+Federal tax refunds - the most common offset for EIDL borrowers
 
-Social Security benefits -- up to 15% can be offset, with a minimum $750/month protected
+Social Security benefits - up to 15% can be offset, with a minimum $750/month protected
 
-Federal salary -- if you are a federal employee, up to 15% of disposable pay
+Federal salary - if you are a federal employee, up to 15% of disposable pay
 
-Federal contractor payments -- payments owed to you as a government contractor
+Federal contractor payments - payments owed to you as a government contractor
 
-Other federal payments -- OPM retirement, federal travel reimbursements, vendor payments
+Other federal payments - OPM retirement, federal travel reimbursements, vendor payments
 
 State tax refunds are generally NOT subject to Treasury offset for SBA debts. However, some states have reciprocal agreements for certain debts.
 
@@ -1567,6 +1711,10 @@ Student Loans in Bankruptcy
 
 Taxes in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1576,10 +1724,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1663,7 +1811,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Treasury Offset Program and EIDL Loans -- Eidlloanforgiveness
+## Treasury Offset Program and EIDL Loans - Eidlloanforgiveness
 Source: https://eidlloanforgiveness.com/treasury-offset.html
 
 Treasury Offset Program and EIDL Loans
@@ -1672,17 +1820,19 @@ When the Government Takes Your Tax Refund
 
 ← Back to eidlloanforgiveness.com
 
+Home›Treasury Offset Program and EIDL Loans | eidlloanforgiveness.com›Treasury Offset Program and EIDL Loans
+
 What Is Treasury Offset
 
-When an EIDL loan goes into default and is referred to the Treasury Department, the Treasury Offset Program (TOP) can intercept your federal tax refunds, Social Security payments (up to 15%), and other federal payments to apply toward the debt. This happens automatically once the debt is referred -- you may not receive advance warning.
+When an EIDL loan goes into default and is referred to the Treasury Department, the Treasury Offset Program (TOP) can intercept your federal tax refunds, Social Security payments (up to 15%), and other federal payments to apply toward the debt. This happens automatically once the debt is referred - you may not receive advance warning.
 
 How Referral Works
 
-The SBA refers defaulted loans to the Treasury after 120+ days of delinquency and failed collection attempts. Once referred, the Treasury sends a notice to your last known address. You have 60 days to dispute the debt, request a review, or enter a repayment agreement before offset begins. Do not ignore the Treasury notice -- it is your last chance to act before offsets start.
+The SBA refers defaulted loans to the Treasury after 120+ days of delinquency and failed collection attempts. Once referred, the Treasury sends a notice to your last known address. You have 60 days to dispute the debt, request a review, or enter a repayment agreement before offset begins. Do not ignore the Treasury notice - it is your last chance to act before offsets start.
 
 Protecting Your Tax Refund
 
-If you are married and file jointly, the non-liable spouse can file an injured spouse claim (IRS Form 8379) to protect their portion of the refund. Adjust your withholding so you do not have a large refund to offset -- increase allowances so you receive more in each paycheck. Consider making estimated tax payments instead of over-withholding. These strategies legally minimize the offset impact.
+If you are married and file jointly, the non-liable spouse can file an injured spouse claim (IRS Form 8379) to protect their portion of the refund. Adjust your withholding so you do not have a large refund to offset - increase allowances so you receive more in each paycheck. Consider making estimated tax payments instead of over-withholding. These strategies legally minimize the offset impact.
 
 Hardship Exemptions
 
@@ -1721,6 +1871,10 @@ Student Loans in Bankruptcy
 
 Taxes in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1730,10 +1884,10 @@ Further Reading & Resources
 Authority sources for deeper research on Subchapter V small business bankruptcy and EIDL:
 
 11 U.S.C. Section 1191
-Cornell LII -- Sub V confirmation
+Cornell LII - Sub V confirmation
 
 11 U.S.C. Section 1192
-Cornell LII -- Sub V discharge
+Cornell LII - Sub V discharge
 
 SBA Disaster Loan Info
 SBA.gov
@@ -1807,117 +1961,72 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## EIDL Payment Plan -- Negotiating With the SBA (2026)
-Source: https://eidlloanforgiveness.com/eidl-payment-plan.html
+## Privacy Policy - eidlloanforgiveness.com
+Source: https://eidlloanforgiveness.com/privacy.html
 
-EIDL Payment Plan
+eidlloanforgiveness.com
 
-Options for Negotiating With the SBA When You Cannot Afford Your Payment
+Home
+Privacy
 
-← Back to eidlloanforgiveness.com
+Privacy Policy
 
-Your EIDL Payment Options
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-EIDL loans are 30-year obligations at 3.75% interest (2.75% for nonprofits). Monthly payments are fixed and can be substantial -- a $150,000 loan requires approximately $695/month. If your business cannot sustain these payments, you have several options before defaulting:
+Data We Collect
 
-Hardship accommodation -- temporary reduced payments or deferment (see hardship options)
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-Extended deferment -- pause payments for 6-12 months (interest continues accruing)
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Offer in compromise -- settle the full balance for less than owed (see OIC guide)
+What We Don't Do
 
-Bankruptcy discharge -- eliminate the debt through Chapter 7, 13, or 11
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-How to Request a Payment Modification
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-The SBA does not advertise payment modification options prominently. You must be proactive. Here is the process:
+Cookies
 
-Step 1: Call the SBA. The dedicated EIDL line is 1-800-659-2955. Ask specifically for the "hardship accommodation" or "payment modification" team. The first representative you speak with may not know about these options -- ask for a supervisor if needed.
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Step 2: Document your hardship. Prepare: recent business tax returns, a current profit and loss statement, documentation of the hardship (lost contracts, increased costs, health issues), and a realistic budget showing what you can afford to pay.
+Third-Party Services
 
-Step 3: Propose a number. Do not wait for the SBA to offer an amount. Come with a specific monthly payment you can sustain. Be honest -- an agreement you cannot keep leads to default, which is worse than negotiating a realistic amount upfront.
+Google Analytics (GA4) - aggregate traffic measurement
 
-Step 4: Get it in writing. Any modification agreement should be documented in a letter from the SBA. Do not rely on verbal promises. Note the date, time, representative name, and reference number of every call.
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-What the SBA Will and Will Not Do
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-The SBA has some flexibility but significant limitations:
+GitHub Pages - hosting
 
-Will do: Temporary payment reduction, deferment (6-12 months), interest-only payments during hardship
+Contact Forms & Email
 
-Will sometimes do: Extended deferment periods, reduced payment amounts for longer periods
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Will not do: Reduce the principal balance (that requires an Offer in Compromise), reduce the interest rate, extend the 30-year term, or forgive the loan
+Children's Privacy
 
-The SBA's customer service is notoriously inconsistent. Different representatives may give different answers. If one says no, call back and try again. Document everything.
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-When a Payment Plan Is Not Enough
+Data Retention
 
-If even a reduced payment is unaffordable, your remaining options are:
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Offer in Compromise: The SBA may accept a lump-sum settlement for less than the full balance. You need to demonstrate that you cannot pay the full amount and that the SBA would recover less through collections than through your offer. See the complete OIC guide.
+Your Rights
 
-Bankruptcy: EIDL loans are fully dischargeable. Chapter 7 eliminates the debt in 3-4 months. Chapter 13 allows partial repayment over 3-5 years. Chapter 11/Subchapter V lets you restructure while continuing operations.
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Strategic default: If you have no assets to protect and the SBA has no personal guarantee, default may result in the debt being written off after collection attempts. However, the Treasury Offset Program can intercept tax refunds indefinitely. Consult an attorney before choosing this path.
+Network Policy
 
-Frequently Asked Questions
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-Can I negotiate a lower EIDL payment with the SBA?
+Changes
 
-Yes. The SBA offers hardship accommodations including temporary payment reductions, deferment, and extended terms. Call 1-800-659-2955 and ask for the hardship accommodation team.
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-What happens if I stop paying my EIDL loan?
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-The SBA sends demand letters, then refers to Treasury Offset Program (tax refund intercept), then private collections, and potentially DOJ litigation. Timeline: 12-24 months from first missed payment to active collections.
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Can I pay off my EIDL loan early?
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Yes. No prepayment penalty. Extra payments or full payoff reduce the total interest paid over the 30-year term.
-
-What is the monthly payment on a typical EIDL loan?
-
-At 3.75% over 30 years: $50K loan is ~$232/month, $150K is ~$695/month, $500K is ~$2,316/month. Check your exact amount on the SBA online portal.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-
-Free Discharge Screener
-
-About This Data: Content based on SBA EIDL program guidelines, federal bankruptcy law (Title 11, U.S. Code), and the Debt Collection Improvement Act. Payment calculations use standard amortization at 3.75% APR. This is educational content, not legal advice.
-
-Related Guides
-
-EIDL Loans in Bankruptcy
-
-SBA Offer in Compromise
-
-EIDL Hardship Options
-
-Chapter 7 vs Chapter 13
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener
-Open Bankruptcy Project
-Ch.7 vs Ch.13
-Bankruptcy Cost
-Automatic Stay
-Means Test
-EIDL Bankruptcy
-
-Free bankruptcy education for the public interest. Not legal advice.
-If you need legal help, contact a licensed attorney in your state.
-A project of the Open Bankruptcy Project,
-a 501(c)(3) nonprofit (determination pending).
-
-Privacy |
-Terms
-
-♥ Sponsor
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
+No ads. No affiliate links. No data sold. Supported by donations.

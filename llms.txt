@@ -1,22 +1,23 @@
-# EIDL Loan Forgiveness -- SBA Relief Options & Hardship Programs [2026] -- Eidlloanforgiveness
+# EIDL Loan Forgiveness - SBA Relief Options & Hardship Programs [2026] - Eidlloanforgiveness
 > Is EIDL loan forgiveness available? Current SBA policies, hardship options, offer in compromise, and bankruptcy. 2026 guide.
 
 ## About
 eidlloanforgiveness.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- EIDL Appeal Process -- Eidlloanforgiveness: https://eidlloanforgiveness.com/appeal-process.html
-- Bankruptcy and EIDL Loans -- Eidlloanforgiveness: https://eidlloanforgiveness.com/bankruptcy-and-eidl.html
-- EIDL Default Consequences -- Eidlloanforgiveness: https://eidlloanforgiveness.com/default-consequences.html
-- EIDL Advance vs. EIDL Loan -- Know the Difference -- Eidlloanforgiveness: https://eidlloanforgiveness.com/eidl-advance-vs-loan.html
-- EIDL Loan Structure -- Eidlloanforgiveness: https://eidlloanforgiveness.com/eidl-loan-structure.html
-- EIDL Forgiveness and Relief Options -- Eidlloanforgiveness: https://eidlloanforgiveness.com/forgiveness-options.html
-- EIDL Hardship Options -- Eidlloanforgiveness: https://eidlloanforgiveness.com/hardship-options.html
-- EIDL Loan Forgiveness -- SBA Relief Options & Hardship Programs [2026] -- Eidlloanforgiveness: https://eidlloanforgiveness.com/
-- SBA Offer in Compromise for EIDL Loans -- Eidlloanforgiveness: https://eidlloanforgiveness.com/sba-offer-in-compromise.html
-- Treasury Offset Program and EIDL -- Tax Refund Seizure for SBA Loans -- Eidlloanforgiveness: https://eidlloanforgiveness.com/treasury-offset-program.html
-- Treasury Offset Program and EIDL Loans -- Eidlloanforgiveness: https://eidlloanforgiveness.com/treasury-offset.html
-- EIDL Payment Plan -- Negotiating With the SBA (2026): https://eidlloanforgiveness.com/eidl-payment-plan.html
+- EIDL Appeal Process - Eidlloanforgiveness: https://eidlloanforgiveness.com/appeal-process.html
+- Bankruptcy and EIDL Loans - Eidlloanforgiveness: https://eidlloanforgiveness.com/bankruptcy-and-eidl.html
+- EIDL Default Consequences - Eidlloanforgiveness: https://eidlloanforgiveness.com/default-consequences.html
+- EIDL Advance vs. EIDL Loan - Know the Difference - Eidlloanforgiveness: https://eidlloanforgiveness.com/eidl-advance-vs-loan.html
+- EIDL Loan Structure - Eidlloanforgiveness: https://eidlloanforgiveness.com/eidl-loan-structure.html
+- EIDL Payment Plan - Negotiating With the SBA (2026): https://eidlloanforgiveness.com/eidl-payment-plan.html
+- EIDL Forgiveness and Relief Options - Eidlloanforgiveness: https://eidlloanforgiveness.com/forgiveness-options.html
+- EIDL Hardship Options - Eidlloanforgiveness: https://eidlloanforgiveness.com/hardship-options.html
+- EIDL Loan Forgiveness - SBA Relief Options & Hardship Programs [2026] - Eidlloanforgiveness: https://eidlloanforgiveness.com/
+- SBA Offer in Compromise for EIDL Loans - Eidlloanforgiveness: https://eidlloanforgiveness.com/sba-offer-in-compromise.html
+- Treasury Offset Program and EIDL - Tax Refund Seizure for SBA Loans - Eidlloanforgiveness: https://eidlloanforgiveness.com/treasury-offset-program.html
+- Treasury Offset Program and EIDL Loans - Eidlloanforgiveness: https://eidlloanforgiveness.com/treasury-offset.html
+- Privacy Policy: https://eidlloanforgiveness.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
