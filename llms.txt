@@ -1,25 +1,78 @@
-# EIDL Loan Forgiveness - SBA Relief Options & Hardship Programs [2026] - Eidlloanforgiveness
-> Last updated: 2026-05-01
+# EIDL Loan Forgiveness Portal [2026]
+> Last updated: 2026-09-25
 
-> Is EIDL loan forgiveness available? Current SBA policies, hardship options, offer in compromise, and bankruptcy. 2026 guide.
+> Is the EIDL loan forgiveness portal real? EIDL loan forgiveness options 2026, SBA hardship accommodation under 13 CFR 123.602, offer in compromise tracks
 
 ## About
 eidlloanforgiveness.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- EIDL Appeal Process - Eidlloanforgiveness: https://eidlloanforgiveness.com/appeal-process.html
-- Bankruptcy and EIDL Loans - Eidlloanforgiveness: https://eidlloanforgiveness.com/bankruptcy-and-eidl.html
-- EIDL Default Consequences - Eidlloanforgiveness: https://eidlloanforgiveness.com/default-consequences.html
-- EIDL Advance vs. EIDL Loan - Know the Difference - Eidlloanforgiveness: https://eidlloanforgiveness.com/eidl-advance-vs-loan.html
+- EIDL Appeal Process [2026]: SBA Office of Hearings and Appeals (OHA) Procedure: https://eidlloanforgiveness.com/appeal-process.html
+- Bankruptcy and EIDL Loans [2026]: Discharge Eligibility and the Personal Guarantee Survival Issue: https://eidlloanforgiveness.com/bankruptcy-and-eidl.html
+- EIDL Default Consequences [2026]: SBA Charge-Off, Treasury Offset, and CAIVRS Reporting: https://eidlloanforgiveness.com/default-consequences.html
+- EIDL Advance vs EIDL Loan [2026]: $10,000 Forgivable Grant Versus Repayable Disaster Loan: https://eidlloanforgiveness.com/eidl-advance-vs-loan.html
 - EIDL Loan Structure - Eidlloanforgiveness: https://eidlloanforgiveness.com/eidl-loan-structure.html
 - EIDL Payment Plan - Negotiating With the SBA (2026): https://eidlloanforgiveness.com/eidl-payment-plan.html
-- EIDL Forgiveness and Relief Options - Eidlloanforgiveness: https://eidlloanforgiveness.com/forgiveness-options.html
-- EIDL Hardship Options - Eidlloanforgiveness: https://eidlloanforgiveness.com/hardship-options.html
-- EIDL Loan Forgiveness - SBA Relief Options & Hardship Programs [2026] - Eidlloanforgiveness: https://eidlloanforgiveness.com/
-- SBA Offer in Compromise for EIDL Loans - Eidlloanforgiveness: https://eidlloanforgiveness.com/sba-offer-in-compromise.html
-- Treasury Offset Program and EIDL - Tax Refund Seizure for SBA Loans - Eidlloanforgiveness: https://eidlloanforgiveness.com/treasury-offset-program.html
-- Treasury Offset Program and EIDL Loans - Eidlloanforgiveness: https://eidlloanforgiveness.com/treasury-offset.html
+- EIDL Forgiveness and Relief Options [2026]: Hardship Accommodation, Offer in Compromise, Charge-Off: https://eidlloanforgiveness.com/forgiveness-options.html
+- EIDL Hardship Options [2026]: SBA Hardship Accommodation and Six-Month Reduced Payments: https://eidlloanforgiveness.com/hardship-options.html
+- EIDL Loan Forgiveness Portal: https://eidlloanforgiveness.com/
+- SBA Offer in Compromise for EIDL [2026]: 31 USC 3711 Settlement and Hardship Documentation: https://eidlloanforgiveness.com/sba-offer-in-compromise.html
+- Treasury Offset Program and EIDL [2026]: 31 USC 3716 Tax Refund and Federal Payment Seizure: https://eidlloanforgiveness.com/treasury-offset-program.html
+- SBA Treasury Offset Program [2026]: How EIDL Default Triggers Tax Refund and Federal Payment Seizure: https://eidlloanforgiveness.com/treasury-offset.html
 - Privacy Policy: https://eidlloanforgiveness.com/privacy.html
+- About eidlloanforgiveness.com: https://eidlloanforgiveness.com/about.html
+- EIDL in Alabama [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/alabama.html
+- EIDL in Alaska [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/alaska.html
+- EIDL in Arizona [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/arizona.html
+- EIDL in Arkansas [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/arkansas.html
+- EIDL in California [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/california.html
+- EIDL in Colorado [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/colorado.html
+- EIDL in Connecticut [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/connecticut.html
+- EIDL in Delaware [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/delaware.html
+- EIDL in District of Columbia [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/district-of-columbia.html
+- EIDL in Florida [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/florida.html
+- EIDL in Georgia [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/georgia.html
+- EIDL in Hawaii [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/hawaii.html
+- EIDL in Idaho [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/idaho.html
+- EIDL in Illinois [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/illinois.html
+- EIDL by State by State: https://eidlloanforgiveness.com/states/
+- EIDL in Indiana [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/indiana.html
+- EIDL in Iowa [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/iowa.html
+- EIDL in Kansas [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/kansas.html
+- EIDL in Kentucky [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/kentucky.html
+- EIDL in Louisiana [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/louisiana.html
+- EIDL in Maine [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/maine.html
+- EIDL in Maryland [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/maryland.html
+- EIDL in Massachusetts [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/massachusetts.html
+- EIDL in Michigan [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/michigan.html
+- EIDL in Minnesota [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/minnesota.html
+- EIDL in Mississippi [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/mississippi.html
+- EIDL in Missouri [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/missouri.html
+- EIDL in Montana [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/montana.html
+- EIDL in Nebraska [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/nebraska.html
+- EIDL in Nevada [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/nevada.html
+- EIDL in New Hampshire [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/new-hampshire.html
+- EIDL in New Jersey [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/new-jersey.html
+- EIDL in New Mexico [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/new-mexico.html
+- EIDL in New York [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/new-york.html
+- EIDL in North Carolina [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/north-carolina.html
+- EIDL in North Dakota [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/north-dakota.html
+- EIDL in Ohio [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/ohio.html
+- EIDL in Oklahoma [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/oklahoma.html
+- EIDL in Oregon [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/oregon.html
+- EIDL in Pennsylvania [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/pennsylvania.html
+- EIDL in Rhode Island [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/rhode-island.html
+- EIDL in South Carolina [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/south-carolina.html
+- EIDL in South Dakota [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/south-dakota.html
+- EIDL in Tennessee [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/tennessee.html
+- EIDL in Texas [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/texas.html
+- EIDL in Utah [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/utah.html
+- EIDL in Vermont [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/vermont.html
+- EIDL in Virginia [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/virginia.html
+- EIDL in Washington [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/washington.html
+- EIDL in West Virginia [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/west-virginia.html
+- EIDL in Wisconsin [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/wisconsin.html
+- EIDL in Wyoming [2026]: Forgiveness, UCC Liens, Bankruptcy, and Personal Guarantee: https://eidlloanforgiveness.com/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
